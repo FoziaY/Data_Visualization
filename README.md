@@ -1,5 +1,6 @@
 # Pymaceuticals Inc.: Analysis Report
-![Pymaceuticals Logo](Pymaceuticals/images/top-pharmaceutical-companies-in-baddi.png)
+
+<img src="Pymaceuticals/images/top-pharmaceutical-companies-in-baddi.png" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
 
 ## 2. Table of Contents
 1. [Title](#title)
